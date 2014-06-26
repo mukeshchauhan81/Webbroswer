@@ -1,0 +1,17 @@
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\bin\Debug\WBrowser.exe
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\bin\Debug\WBrowser.pdb
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.About.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Calendar.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Close.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Open.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.exe
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\obj\Debug\WBrowser.pdb
+E:\Working Software\Data\WBrowser\WBrowser\WBrowser\bin\Debug\WBrowser.exe.config
